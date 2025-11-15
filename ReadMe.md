@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## Htet Naing Wai
-=======
 <h1 align="center">Hello! I'm Htet Naing Wai 😎  </h1>
 <h3 align="center">A passionate Frontend Developer / Backend Developer / Full-Stack Developer from Myanmar.</h3>
 
@@ -76,5 +73,3 @@
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtetNaingWai&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
 </p>
-
->>>>>>> 5cad478 (fix)
