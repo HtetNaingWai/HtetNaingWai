@@ -68,13 +68,7 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetNaingWai&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HtetNaingWai&layout=compact&theme=tokyonight)
-
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HtetNaingWai&theme=tokyonight" />
 </p>
