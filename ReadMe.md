@@ -69,9 +69,16 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HtetNaingWai&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HtetNaingWai&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="Htet Naing Wai GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtetNaingWai&layout=compact&locale=en&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HtetNaingWai&layout=compact&locale=en&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HtetNaingWai&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HtetNaingWai&theme=tokyonight" />
+</p>
+
 
 </p>
