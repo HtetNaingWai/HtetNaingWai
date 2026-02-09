@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm Htet Naing Wai 😎  </h1>
-<h3 align="center">A passionate Frontend Developer / Backend Developer / Full-Stack Developer from Myanmar.</h3>
+<h1 align="center">Hello! I'm Htet Naing Wai   </h1>
+<h3 align="center">A passionate  Full-Stack Developer from Myanmar.</h3>
 
 ***
 
@@ -72,9 +72,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HtetNaingWai&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HtetNaingWai&theme=tokyonight" />
-</p>
 
 
-</p>
+
